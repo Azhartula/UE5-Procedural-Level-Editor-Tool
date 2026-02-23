@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Procedural Level Generator",
+	"Description": "Professional-grade Unreal Engine 5 editor plugin for procedural level generation using Wave Function Collapse algorithm with custom Slate UI.",
+	"Category": "Editor",
+	"CreatedBy": "Azhar Iqbal",
+	"CreatedByURL": "https://github.com/Azhartula",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ProceduralLevelGenerator",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
